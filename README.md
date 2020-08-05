@@ -1,1 +1,1 @@
-# CS-161-Artificial-Intelligence
+# CS 161: Artificial Intelligence
